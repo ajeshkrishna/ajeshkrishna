@@ -10,7 +10,6 @@ on:
       - assets/banner.svg
       - assets/banner.gif
       - README.md
-      - readme.md
   schedule:
     - cron: '0 * * * *'
 
